@@ -1,0 +1,95 @@
+{
+  "produtos": [
+    {
+      "nome": "Smartphone Xiaomi Redmi Note 10S",
+      "descricao": "Tela 6,43 6GB 128GB Bateria 5000mAh Quatro Câmera 64 + 8 + 2 + 2MP Cinza",
+      "categoria": "smartphones",
+      "preco": 1599,
+      "estoque": 10,
+      "imagem": "https://media.discordapp.net/attachments/975905192069435395/1070782557010014218/6157927787_1_xlarge.png?width=426&height=426",
+      "id": 1
+    },
+    {
+      "nome": "Smartphone Motorola Moto G22",
+      "descricao": "128GB 4G Wi-Fi Tela 6.5'' Dual Chip 4GB RAM Câmera Quádrupla + Selfie 16MP - Azul",
+      "categoria": "smartphones",
+      "preco": 1260,
+      "estoque": 10,
+      "imagem": "https://media.discordapp.net/attachments/975905192069435395/1070783027707392151/4818919742_1SZ.png?width=426&height=426",
+      "id": 2
+    },
+    {
+      "nome": "Notebook Galaxy Book Go Snapdragon",
+      "descricao": "7c 4GB 128GB SSD UFS Tela Full HD 14” Windows 11 - NP340XLA-K05BR",
+      "categoria": "notebooks",
+      "preco": "1799.00",
+      "estoque": "25",
+      "imagem": "https://media.discordapp.net/attachments/975905192069435395/1070785111571832902/1g.png?width=426&height=426",
+      "id": 3
+    },
+    {
+      "nome": "Notebook Philco Core i3",
+      "descricao": "7c Core i3- 5005U 4GB 1TB Tela Full HD 15.6” Windows 10 PNB15-6AP34H1",
+      "categoria": "notebooks",
+      "preco": "1699.00",
+      "estoque": "50",
+      "imagem": "https://media.discordapp.net/attachments/975905192069435395/1070786787787685968/1g.png?width=426&height=426",
+      "id": 4
+    },
+    {
+      "nome": "Notebook Lenovo",
+      "descricao": "Core i5-1135G7 8GB 256GB SSD Tela 15.6\" Windows 11 Ideapad 3i 82MD0007BR",
+      "categoria": "notebooks",
+      "preco": "3299.00",
+      "estoque": "25",
+      "imagem": "https://media.discordapp.net/attachments/975905192069435395/1070787354530431006/1g.png?width=426&height=426",
+      "id": 5
+    },
+    {
+      "nome": "Monitor Gamer Samsung",
+      "descricao": "Odyssey G32A 24\" S24AG320NL, FHD, 165Hz, 1ms, com ajuste de altura, HDMI, DP, Freesync, Preto, Série G32",
+      "categoria": "monitor",
+      "preco": "1799.00",
+      "estoque": "12",
+      "imagem": "https://media.discordapp.net/attachments/975905192069435395/1070788521436135554/1g.png?width=426&height=426",
+      "id": 6
+    },
+    {
+      "nome": "Monitor Samsung Curvo",
+      "descricao": " 24” LED Full HD Widescreen HDMI FreeSync C24F390FHL",
+      "categoria": "monitor",
+      "preco": "858.00",
+      "estoque": "50",
+      "imagem": "https://media.discordapp.net/attachments/975905192069435395/1070789191102890004/1xg.png?width=426&height=426",
+      "id": 7
+    }
+  ],
+  "cupons": [
+    {
+      "id": 1,
+      "validade": "25/5/2022",
+      "nome": "25 off"
+    },
+    {
+        "id": 2,
+        "validade": "25/5/2022",
+        "nome": "Frete Grátis"
+      }
+
+  ],
+  "clientes": [
+    {
+      "nome": "Marinalva Ferreira",
+      "cpf": "1234567",
+      "razaoSocial": "mariCelular",
+      "email": "mariCelular@mari.com",
+      "telefone": "7592567465",
+      "senha": "123456",
+      "contaBancaria": "",
+      "chavePix": "",
+      "enderco": "",
+      "formasPagamento": "",
+      "id": 1
+    }
+  ]
+}
