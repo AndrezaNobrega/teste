@@ -71,11 +71,10 @@
       "nome": "25 off"
     },
     {
-        "id": 2,
-        "validade": "25/5/2022",
-        "nome": "Frete Grátis"
-      }
-
+      "id": 2,
+      "validade": "25/5/2022",
+      "nome": "Frete Grátis"
+    }
   ],
   "clientes": [
     {
@@ -90,6 +89,24 @@
       "enderco": "",
       "formasPagamento": "",
       "id": 1
+    },
+    {
+      "nomeUsuario": "Andreza",
+      "razaoSocial": "lslsls",
+      "cpf": "51.425.551/1555",
+      "telefone": "(75) 9 1886-644",
+      "email": "testeste@ecomp.uefs.br",
+      "senha": "222222",
+      "id": 2
+    },
+    {
+      "nomeUsuario": "Juriscleide",
+      "razaoSocial": "Xarisnayde LTDA",
+      "cpf": "000.000.000-0",
+      "telefone": "(75) 9 9999-9999 ",
+      "email": "xarisnaydeltda@sac.com",
+      "senha": "juriexari",
+      "id": 3
     }
   ]
 }
