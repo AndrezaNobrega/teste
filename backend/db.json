@@ -107,6 +107,15 @@
       "email": "xarisnaydeltda@sac.com",
       "senha": "juriexari",
       "id": 3
+    },
+    {
+      "nomeUsuario": "Izzie",
+      "razaoSocial": "Izzie LTDA",
+      "cpf": "000.553.344",
+      "telefone": "(77) 7 7777-7777 ",
+      "email": "izzie@email.com",
+      "senha": "123",
+      "id": 4
     }
   ]
 }
