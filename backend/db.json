@@ -2,11 +2,17 @@
   "produtos": [
     {
       "nome": "Smartphone Xiaomi Redmi Note 10S",
-      "descricao": "Tela 6,43 6GB 128GB Bateria 5000mAh Quatro Câmera 64 + 8 + 2 + 2MP Cinza",
+      "descricao": "Tela 6,43 6GB 128GB Bateria 5000mAh Quatro Câmeras 64 + 8 + 2 + 2MP Cinza",
       "categoria": "smartphones",
-      "preco": 1599,
+      "preco": "1599.0",
       "estoque": 10,
-      "imagem": "https://media.discordapp.net/attachments/975905192069435395/1070782557010014218/6157927787_1_xlarge.png?width=426&height=426",
+      "imagem": [
+        "https://images-americanas.b2w.io/produtos/6157927752/imagens/smartphone-xiaomi-redmi-note-10s-tela-6-43-6gb-128gb-bateria-5000mah-quatro-camera-64-8-2-2mp-cinza/6157927787_1_xlarge.jpg",
+        "https://images-americanas.b2w.io/produtos/6157927752/imagens/smartphone-xiaomi-redmi-note-10s-tela-6-43-6gb-128gb-bateria-5000mah-quatro-camera-64-8-2-2mp-cinza/6157927787_4_xlarge.jpg",
+        "https://images-americanas.b2w.io/produtos/6157927752/imagens/smartphone-xiaomi-redmi-note-10s-tela-6-43-6gb-128gb-bateria-5000mah-quatro-camera-64-8-2-2mp-cinza/6157927787_6_xlarge.jpg",
+        "https://images-americanas.b2w.io/produtos/6157927752/imagens/smartphone-xiaomi-redmi-note-10s-tela-6-43-6gb-128gb-bateria-5000mah-quatro-camera-64-8-2-2mp-cinza/6157927787_7_xlarge.jpg",
+        "https://images-americanas.b2w.io/produtos/6157927752/imagens/smartphone-xiaomi-redmi-note-10s-tela-6-43-6gb-128gb-bateria-5000mah-quatro-camera-64-8-2-2mp-cinza/6157927787_8_xlarge.jpg"
+      ],
       "id": 1
     },
     {
@@ -15,7 +21,13 @@
       "categoria": "smartphones",
       "preco": 1260,
       "estoque": 10,
-      "imagem": "https://media.discordapp.net/attachments/975905192069435395/1070783027707392151/4818919742_1SZ.png?width=426&height=426",
+      "imagem": [
+        "https://images-americanas.b2w.io/produtos/01/00/img/4818919/7/4818919742_1SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/4818919/7/4818919742_3SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/4818919/7/4818919742_4SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/4818919/7/4818919742_9SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/4818919/7/4818919742_10SZ.jpg"
+      ],
       "id": 2
     },
     {
@@ -24,7 +36,13 @@
       "categoria": "notebooks",
       "preco": "1799.00",
       "estoque": "25",
-      "imagem": "https://media.discordapp.net/attachments/975905192069435395/1070785111571832902/1g.png?width=426&height=426",
+      "imagem": [
+        "https://images-americanas.b2w.io/produtos/5765780651/imagens/notebook-samsung-galaxy-book-go-snapdragon-8-nucleos-4gb-128gb-ssd-tela-full-hd-14-windows-11-professional-np340xla-k05br/5765780678_1_xlarge.jpg",
+        "https://images-americanas.b2w.io/produtos/5765780651/imagens/notebook-samsung-galaxy-book-go-snapdragon-8-nucleos-4gb-128gb-ssd-tela-full-hd-14-windows-11-professional-np340xla-k05br/5765780678_2_xlarge.jpg",
+        "https://images-americanas.b2w.io/produtos/5765780651/imagens/notebook-samsung-galaxy-book-go-snapdragon-8-nucleos-4gb-128gb-ssd-tela-full-hd-14-windows-11-professional-np340xla-k05br/5765780678_3_xlarge.jpg",
+        "https://images-americanas.b2w.io/produtos/5765780651/imagens/notebook-samsung-galaxy-book-go-snapdragon-8-nucleos-4gb-128gb-ssd-tela-full-hd-14-windows-11-professional-np340xla-k05br/5765780678_4_xlarge.jpg",
+        "https://images-americanas.b2w.io/produtos/5765780651/imagens/notebook-samsung-galaxy-book-go-snapdragon-8-nucleos-4gb-128gb-ssd-tela-full-hd-14-windows-11-professional-np340xla-k05br/5765780678_5_xlarge.jpg"
+      ],
       "id": 3
     },
     {
@@ -33,47 +51,316 @@
       "categoria": "notebooks",
       "preco": "1699.00",
       "estoque": "50",
-      "imagem": "https://media.discordapp.net/attachments/975905192069435395/1070786787787685968/1g.png?width=426&height=426",
+      "imagem": [
+        "https://images-americanas.b2w.io/produtos/6545510203/imagens/notebook-philco-pnb15-6ap34h1w10-windows-10-15-6-4gb-ram-bivolt/6545510203_1_xlarge.jpg",
+        "https://images-americanas.b2w.io/produtos/6545510203/imagens/notebook-philco-pnb15-6ap34h1w10-windows-10-15-6-4gb-ram-bivolt/6545510203_4_xlarge.jpg",
+        "https://images-americanas.b2w.io/produtos/6545510203/imagens/notebook-philco-pnb15-6ap34h1w10-windows-10-15-6-4gb-ram-bivolt/6545510203_5_xlarge.jpg",
+        "https://images-americanas.b2w.io/produtos/6545510203/imagens/notebook-philco-pnb15-6ap34h1w10-windows-10-15-6-4gb-ram-bivolt/6545510203_6_xlarge.jpg",
+        "https://images-americanas.b2w.io/produtos/6545510203/imagens/notebook-philco-pnb15-6ap34h1w10-windows-10-15-6-4gb-ram-bivolt/6545510203_7_xlarge.jpg"
+      ],
       "id": 4
     },
     {
-      "nome": "Notebook Lenovo",
-      "descricao": "Core i5-1135G7 8GB 256GB SSD Tela 15.6\" Windows 11 Ideapad 3i 82MD0007BR",
+      "nome": "Notebook Lenovo Ideapad",
+      "descricao": "Ultrafino Ideapad 3i I3-10110u 4GB 256GB SSD Tela 15,6” Windows 11 - Prata",
       "categoria": "notebooks",
-      "preco": "3299.00",
+      "preco": "2809.90",
       "estoque": "25",
-      "imagem": "https://media.discordapp.net/attachments/975905192069435395/1070787354530431006/1g.png?width=426&height=426",
+      "imagem": [
+        "https://images-americanas.b2w.io/produtos/01/00/img/5193093/8/5193093804_1SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/5193093/8/5193093804_3SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/5193093/8/5193093804_4SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/5193093/8/5193093804_5SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/5193093/8/5193093804_6SZ.jpg"
+      ],
       "id": 5
     },
     {
-      "nome": "Monitor Gamer Samsung",
-      "descricao": "Odyssey G32A 24\" S24AG320NL, FHD, 165Hz, 1ms, com ajuste de altura, HDMI, DP, Freesync, Preto, Série G32",
+      "nome": "Monitor Gamer Samsung Odyssey G5",
+      "descricao": "34' VA Curvo Wide 165 Hz 2K QHD 1ms, FreeSync Premium HDR10 HDMI/DisplayPort - LC34G55TWWLXZD",
       "categoria": "monitor",
-      "preco": "1799.00",
+      "preco": "4299.00",
       "estoque": "12",
-      "imagem": "https://media.discordapp.net/attachments/975905192069435395/1070788521436135554/1g.png?width=426&height=426",
+      "imagem": [
+        "https://images-americanas.b2w.io/produtos/01/00/img/2639225/4/2639225462_1SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/2639225/4/2639225462_7SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/2639225/4/2639225462_8SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/2639225/4/2639225462_9SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/2639225/4/2639225462_11SZ.jpg"
+      ],
       "id": 6
     },
     {
-      "nome": "Monitor Samsung Curvo",
+      "nome": "Monitor 19.5 LED Widescreen 75Hz",
+      "descricao": "hdmi hq 19.5HQ-LED vesa Ajuste de inclinação",
+      "categoria": "monitor",
+      "preco": "359.50",
+      "estoque": "15",
+      "imagem": [
+        "https://images-americanas.b2w.io/produtos/5022025479/imagens/monitor-19-5-led-widescreen-75hz-hdmi-hq-19-5hq-led-vesa-ajuste-de-inclinacao/5022025487_1_xlarge.jpg",
+        "https://images-americanas.b2w.io/produtos/5022025479/imagens/monitor-19-5-led-widescreen-75hz-hdmi-hq-19-5hq-led-vesa-ajuste-de-inclinacao/5022025487_2_xlarge.jpg",
+        "https://images-americanas.b2w.io/produtos/5022025479/imagens/monitor-19-5-led-widescreen-75hz-hdmi-hq-19-5hq-led-vesa-ajuste-de-inclinacao/5022025487_3_xlarge.jpg",
+        "https://images-americanas.b2w.io/produtos/5022025479/imagens/monitor-19-5-led-widescreen-75hz-hdmi-hq-19-5hq-led-vesa-ajuste-de-inclinacao/5022025487_4_xlarge.jpg",
+        "https://images-americanas.b2w.io/produtos/5022025479/imagens/monitor-19-5-led-widescreen-75hz-hdmi-hq-19-5hq-led-vesa-ajuste-de-inclinacao/5022025487_5_xlarge.jpg"
+      ],
+      "id": 7
+    },
+    {
+      "nome": "Monitor Samsung Curvo ",
       "descricao": " 24” LED Full HD Widescreen HDMI FreeSync C24F390FHL",
       "categoria": "monitor",
       "preco": "858.00",
       "estoque": "50",
-      "imagem": "https://media.discordapp.net/attachments/975905192069435395/1070789191102890004/1xg.png?width=426&height=426",
-      "id": 7
+      "imagem": [
+        "https://images-americanas.b2w.io/produtos/01/00/img/133321/7/133321713_1SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/133321/7/133321713_2SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/133321/7/133321713_4SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/133321/7/133321713_6SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/133321/7/133321713_8SZ.jpg"
+      ],
+      "id": 8
+    },
+    {
+      "nome": "Monitor LED 17.1 Widescreen",
+      "descricao": "hdmi Ajuste de ângulo vesa 75Hz hq Screen 17HQ-LED",
+      "categoria": "monitor",
+      "preco": "322.00",
+      "estoque": "65",
+      "imagem": [
+        "https://images-americanas.b2w.io/produtos/5681042053/imagens/monitor-led-17-1-widescreen-hdmi-ajuste-de-angulo-vesa-75hz-hq-screen-17hq-led/5681042053_1_xlarge.jpg",
+        "https://images-americanas.b2w.io/produtos/5681042053/imagens/monitor-led-17-1-widescreen-hdmi-ajuste-de-angulo-vesa-75hz-hq-screen-17hq-led/5681042053_2_xlarge.jpg",
+        "https://images-americanas.b2w.io/produtos/5681042053/imagens/monitor-led-17-1-widescreen-hdmi-ajuste-de-angulo-vesa-75hz-hq-screen-17hq-led/5681042053_3_xlarge.jpg",
+        "https://images-americanas.b2w.io/produtos/5681042053/imagens/monitor-led-17-1-widescreen-hdmi-ajuste-de-angulo-vesa-75hz-hq-screen-17hq-led/5681042053_4_xlarge.jpg",
+        "https://images-americanas.b2w.io/produtos/5681042053/imagens/monitor-led-17-1-widescreen-hdmi-ajuste-de-angulo-vesa-75hz-hq-screen-17hq-led/5681042053_5_xlarge.jpg"
+      ],
+      "id": 9
+    },
+    {
+      "nome": "Monitor Led 21,5 Widescreen",
+      "descricao": "Alta definição das telas Fox, permitem a visualização das cores e imagens de forma nítida",
+      "categoria": "monitor",
+      "preco": "569.50",
+      "estoque": "150",
+      "imagem": [
+        "https://images-americanas.b2w.io/produtos/6584992065/imagens/monitor-led-22-full-hd-frameless-75hz-hdmi-widescreen-vesa-ajuste-de-inclinacao-hq-22hq-ledsb/6584992065_1_xlarge.jpg",
+        "https://images-americanas.b2w.io/produtos/6584992065/imagens/monitor-led-22-full-hd-frameless-75hz-hdmi-widescreen-vesa-ajuste-de-inclinacao-hq-22hq-ledsb/6584992065_2_xlarge.jpg",
+        "https://images-americanas.b2w.io/produtos/6584992065/imagens/monitor-led-22-full-hd-frameless-75hz-hdmi-widescreen-vesa-ajuste-de-inclinacao-hq-22hq-ledsb/6584992065_3_xlarge.jpg",
+        "https://images-americanas.b2w.io/produtos/6584992065/imagens/monitor-led-22-full-hd-frameless-75hz-hdmi-widescreen-vesa-ajuste-de-inclinacao-hq-22hq-ledsb/6584992065_4_xlarge.jpg",
+        "https://images-americanas.b2w.io/produtos/6584992065/imagens/monitor-led-22-full-hd-frameless-75hz-hdmi-widescreen-vesa-ajuste-de-inclinacao-hq-22hq-ledsb/6584992065_5_xlarge.jpg"
+      ],
+      "id": 10
+    },
+    {
+      "nome": "Smartphone Motorola Moto E22 64GB",
+      "descricao": "RAM 6,5” Câm. Dupla + Selfie 5MP Dual Chip",
+      "categoria": "smartphones",
+      "preco": 900,
+      "estoque": 200,
+      "imagem": [
+        "https://images-americanas.b2w.io/produtos/01/00/img/6694005/1/6694005112_1SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/6694005/1/6694005112_3SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/6694005/1/6694005112_4SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/6694005/1/6694005112_6SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/6694005/1/6694005112_9SZ.jpg"
+      ],
+      "id": 11
+    },
+    {
+      "nome": "Smartphone Samsung Galaxy A01",
+      "descricao": "Core 32GB 4G Wi-Fi Tela 5.3'' Dual Chip 2GB RAM Câmera 8MP + Selfie 5MP - Vermelho",
+      "categoria": "smartphones",
+      "preco": 799,
+      "estoque": 7,
+      "imagem": [
+        "https://images-americanas.b2w.io/produtos/01/00/img/1834711/9/1834711992_1SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/1834711/9/1834711992_2SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/1834711/9/1834711992_3SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/1834711/9/1834711992_4SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/1834711/9/1834711992_5SZ.jpg"
+      ],
+      "id": 12
+    },
+    {
+      "nome": "Smartphone Samsung Galaxy A03",
+      "descricao": "64GB 4GB RAM Processador Octa Core 48MP + 2MP 5MP Tela Infinita de 6.5\" Dual Chip Android - Preto",
+      "categoria": "smartphones",
+      "preco": 845,
+      "estoque": 4,
+      "imagem": [
+        "https://images-americanas.b2w.io/produtos/01/00/img/4533174/8/4533174812_1SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/4533174/8/4533174812_2SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/4533174/8/4533174812_3SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/4533174/8/4533174812_4SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/4533174/8/4533174812_5SZ.jpg"
+      ],
+      "id": 13
+    },
+    {
+      "nome": "iPhone 11 Apple 64GB Branco Tela 6,1\"",
+      "descricao": "Branco Tela 6,1\" 4G Câmera 12MP iOS",
+      "categoria": "smartphones",
+      "preco": 3100,
+      "estoque": 15,
+      "imagem": [
+        "https://images-americanas.b2w.io/produtos/01/00/img/1614132/3/1614132374_1SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/1614132/3/1614132374_2SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/1614132/3/1614132374_3SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/1614132/3/1614132374_4SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/1614132/3/1614132374_5SZ.jpg"
+      ],
+      "id": 14
+    },
+    {
+      "nome": "Monitor TV 24\" polegadas full HD",
+      "descricao": "Marca: brazil pc Modelo: H240-t Especificações: -Tamanho da Tela: 24 (Modelo: H240-T hoe) ",
+      "categoria": "monitor",
+      "preco": "582.50",
+      "estoque": "3",
+      "imagem": [
+        "https://images-americanas.b2w.io/produtos/5028044267/imagens/monitor-tv-24-polegadas-full-hd-hdmi-usb/5028044321_1_xlarge.jpg",
+        "https://images-americanas.b2w.io/produtos/5028044267/imagens/monitor-tv-24-polegadas-full-hd-hdmi-usb/5028044321_2_xlarge.jpg",
+        "https://images-americanas.b2w.io/produtos/5028044267/imagens/monitor-tv-24-polegadas-full-hd-hdmi-usb/5028044321_3_xlarge.jpg",
+        "https://images-americanas.b2w.io/produtos/5028044267/imagens/monitor-tv-24-polegadas-full-hd-hdmi-usb/5028044321_4_xlarge.jpg",
+        "https://images-americanas.b2w.io/produtos/5028044267/imagens/monitor-tv-24-polegadas-full-hd-hdmi-usb/5028044321_5_xlarge.jpg"
+      ],
+      "id": 15
+    },
+    {
+      "nome": "Monitor Gamer AOC Agon 32\"",
+      "descricao": "Curvo 165hz 1ms Freesync- AG323FCXE",
+      "categoria": "monitor",
+      "preco": "2349.50",
+      "estoque": "99",
+      "imagem": [
+        "https://images-americanas.b2w.io/produtos/01/00/img/2067625/2/2067625208_1SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/2067625/2/2067625208_2SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/2067625/2/2067625208_3SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/2067625/2/2067625208_4SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/2067625/2/2067625208_5SZ.jpg"
+      ],
+      "id": 16
+    },
+    {
+      "nome": "Smartphone Samsung Galaxy Z Fold4",
+      "descricao": "5G Tela dobrável de 7.6'' 256GB Processador Snapdragon 12GB de RAM Câmera Tripla Traseira Preto",
+      "categoria": "smartphones",
+      "preco": 11519,
+      "estoque": 15,
+      "imagem": [
+        "https://images-americanas.b2w.io/produtos/01/00/img/5661785/6/5661785634_1SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/5661785/6/5661785634_2SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/5661785/6/5661785634_3SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/5661785/6/5661785634_4SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/5661785/6/5661785634_5SZ.jpg"
+      ],
+      "id": 17
+    },
+    {
+      "nome": "Notebook Compaq 420 Intel",
+      "descricao": "Intel Pentium-N3700 4GB 120GB SSD Led Webcam HD W10 14,1'' Cinza + Office 365",
+      "categoria": "notebooks",
+      "preco": "1287.90",
+      "estoque": "65",
+      "imagem": [
+        "https://images-americanas.b2w.io/produtos/01/00/img/4199005/6/4199005641_1SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/4199005/6/4199005641_2SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/4199005/6/4199005641_3SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/4199005/6/4199005641_4SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/4199005/6/4199005641_5SZ.jpg"
+      ],
+      "id": 18
+    },
+    {
+      "nome": "Notebook Dell Inspiron I15-i1100-A10PF",
+      "descricao": "Intel Pentium Gold-7505 4GB 128GB SSD W11 15.6\" + Microsoft 365 Personal Preto",
+      "categoria": "notebooks",
+      "preco": "2184.90",
+      "estoque": "80",
+      "imagem": [
+        "https://images-americanas.b2w.io/produtos/01/00/img/5264115/5/5264115581_1SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/5264115/5/5264115581_2SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/5264115/5/5264115581_3SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/5264115/5/5264115581_4SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/5264115/5/5264115581_1SZ.jpg"
+      ],
+      "id": 19
+    },
+    {
+      "nome": "Notebook Ideapad Gaming 3i",
+      "descricao": "Intel Core i5-10300H 8GB (Geforce GTX 1650 4GB) 256GB SSD FHD Linux 15.6\" Azul",
+      "categoria": "notebooks",
+      "preco": "4899.90",
+      "estoque": "100",
+      "imagem": [
+        "https://images-americanas.b2w.io/produtos/01/00/img/3192783/1/3192783133_1SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/3192783/1/3192783133_2SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/3192783/1/3192783133_3SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/3192783/1/3192783133_4SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/3192783/1/3192783133_5SZ.jpg"
+      ],
+      "id": 20
+    },
+    {
+      "nome": "Notebook Gamer Legion 5i",
+      "descricao": "5i i7-10750h 16GB (Pcie Rtx2060 6GB) 1TB 128GB SSD W10 15.6\" Full HD",
+      "categoria": "notebooks",
+      "preco": "8549.90",
+      "estoque": "150",
+      "imagem": [
+        "https://images-americanas.b2w.io/produtos/01/00/img/4995063/5/4995063501_1SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/4995063/5/4995063501_2SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/4995063/5/4995063501_3SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/4995063/5/4995063501_4SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/4995063/5/4995063501_5SZ.jpg"
+      ],
+      "id": 21
+    },
+    {
+      "nome": "Notebook Ultra UB235 Celeron",
+      "descricao": "N4020 4GB 120GB SSD W11 14.1\" Preto + Office 365",
+      "categoria": "notebooks",
+      "preco": "1349.90",
+      "estoque": "10",
+      "imagem": [
+        "https://images-americanas.b2w.io/produtos/01/00/img/4700830/7/4700830700_1SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/4700830/7/4700830700_2SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/4700830/7/4700830700_3SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/4700830/7/4700830700_4SZ.jpg",
+        "https://images-americanas.b2w.io/produtos/01/00/img/4700830/7/4700830700_5SZ.jpg"
+      ],
+      "id": 22
     }
   ],
   "cupons": [
     {
       "id": 1,
       "validade": "25/5/2022",
-      "nome": "25 off"
+      "nome": "25% off"
     },
     {
       "id": 2,
       "validade": "25/5/2022",
       "nome": "Frete Grátis"
+    },
+    {
+      "id": 3,
+      "validade": "22/9/2029",
+      "nome": "Primeira compra"
+    },
+    {
+      "id": 4,
+      "validade": "22/9/2025",
+      "nome": "5% off"
+    },
+    {
+      "nome": "50% off",
+      "validade": "10/2025",
+      "id": 5
+    },
+    {
+      "nome": "10% off",
+      "validade": "10/2025",
+      "id": 6
     }
   ],
   "clientes": [
@@ -103,7 +390,7 @@
       "nomeUsuario": "Juriscleide",
       "razaoSocial": "Xarisnayde LTDA",
       "cpf": "000.000.000-0",
-      "telefone": "(75) 9 9999-9999 ",
+      "telefone": "(75) 9 9999-5555",
       "email": "xarisnaydeltda@sac.com",
       "senha": "juriexari",
       "id": 3
@@ -116,6 +403,113 @@
       "email": "izzie@email.com",
       "senha": "123",
       "id": 4
+    },
+    {
+      "nomeUsuario": "asdlkf",
+      "razaoSocial": "jsdj",
+      "cpf": "44.565.465/4654-6",
+      "telefone": "(12) 3 4",
+      "email": "ancarvalho@ecomp.uefs.br",
+      "senha": "123456",
+      "id": 5
+    },
+    {
+      "nomeUsuario": "aofpof",
+      "razaoSocial": "6fsdf",
+      "cpf": "56.565.656/5656-5",
+      "telefone": "(54) 6 4656",
+      "email": "ancarvalho@ecomp",
+      "senha": "1234",
+      "id": 6
+    },
+    {
+      "nomeUsuario": "fkadslçf",
+      "razaoSocial": "dfksdfds",
+      "cpf": "132.3",
+      "telefone": "(21) 2 11",
+      "email": "ancarvalho@ec",
+      "senha": "1234",
+      "id": 7
+    },
+    {
+      "nomeUsuario": "difjadsif",
+      "razaoSocial": "dsfsfds",
+      "cpf": "456.546.556",
+      "telefone": "(46) 5 4646",
+      "email": "sdfsdfssalho@ecomp.uefs.br",
+      "senha": "12345",
+      "id": 8
+    },
+    {
+      "nomeUsuario": "Aline",
+      "razaoSocial": "Aline Pet Shop",
+      "cpf": "32.132.454/5465-4",
+      "telefone": "(12) 3 4567-89",
+      "email": "alinepets@gmail.com",
+      "senha": "123456",
+      "id": 9,
+      "agencia": "12345",
+      "nConta": "12345",
+      "pix": "12345",
+      "cep": "12345-6",
+      "estado": "Bahia",
+      "bairro": "123456",
+      "cidade": "Serrinha",
+      "nCasa": "123456"
+    },
+    {
+      "nomeUsuario": "Jéssica",
+      "razaoSocial": "Ventiladores LTDA",
+      "cpf": "26.546.465/4654-6",
+      "telefone": "(75) 9 9999-1111",
+      "email": "ventiladores@gmail.com",
+      "senha": "12345",
+      "cep": "48000-000",
+      "estado": "bahia",
+      "id": 10,
+      "bairro": "estacao",
+      "cidade": "serrinha",
+      "nCasa": "5"
+    },
+    {
+      "nomeUsuario": "Romilda",
+      "razaoSocial": "Romilda Lanches",
+      "cpf": "123.465.498-79",
+      "telefone": "(11) 1 1111-1111",
+      "email": "romilda@lanches.com",
+      "senha": "12345",
+      "id": 11,
+      "agencia": "1111111111",
+      "nConta": "65465",
+      "pix": "111111111",
+      "cep": "11111-111",
+      "estado": "santana catarina",
+      "bairro": "bahia",
+      "cidade": "pabj",
+      "nCasa": "6"
+    },
+    {
+      "nomeUsuario": "padofio",
+      "razaoSocial": "padofio padeiro",
+      "cpf": "87.687.876/8767-6",
+      "telefone": "(75) 9 8784-6546 ",
+      "email": "padofio@padaria.com",
+      "senha": "12345",
+      "id": 12
+    }
+  ],
+  "banners": [
+    {
+      "id": 1,
+      "image": "https://www.kabum.com.br/core/_next/image?url=https://themes.kabum.com.br/conteudo/layout/3125/banner_img.jpg&w=1920&h=400&q=100"
+    },
+    {
+      "id": 2,
+      "image": "https://www.kabum.com.br/core/_next/image?url=https://themes.kabum.com.br/conteudo/layout/3061/banner_img.jpg&w=1920&h=400&q=100"
+    },
+    {
+      "id": 3,
+      "image": "https://www.kabum.com.br/core/_next/image?url=https://themes.kabum.com.br/conteudo/layout/2839/banner_img.jpg&w=1920&h=400&q=100"
     }
   ]
 }
